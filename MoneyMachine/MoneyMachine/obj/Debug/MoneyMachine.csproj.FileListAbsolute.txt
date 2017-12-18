@@ -1,0 +1,15 @@
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\bin\Debug\MoneyMachine.exe.config
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\bin\Debug\MoneyMachine.exe
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\bin\Debug\MoneyMachine.pdb
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.csprojResolveAssemblyReference.cache
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MainWindow.g.cs
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\App.g.cs
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine_MarkupCompile.cache
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine_MarkupCompile.lref
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MainWindow.baml
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.g.resources
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.Properties.Resources.resources
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.csproj.GenerateResource.Cache
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.csproj.CoreCompileInputs.cache
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.exe
+E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\MoneyMachine.pdb
