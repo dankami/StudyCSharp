@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\
+D:\Users\Public\Documents\GitHub\StudyCSharp\MoneyMachine\MoneyMachine\obj\Debug\
 MoneyMachine
 none
 false
 DEBUG;TRACE
-E:\workspace\git\StudyCSharp\MoneyMachine\MoneyMachine\App.xaml
-11151548125
+D:\Users\Public\Documents\GitHub\StudyCSharp\MoneyMachine\MoneyMachine\App.xaml
+2350205529
 
-9542078401
+10-1433790095
 131569487696
-MainWindow.xaml;
+moneyui\KNode.xaml;MainWindow.xaml;
 
-True
+False
 

@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-		<Button x:Name="btnTest" Content="测试" HorizontalAlignment="Left" Margin="74,243,0,0" VerticalAlignment="Top" Width="75"/>
-		<Button x:Name="btnOK" Content="确定" HorizontalAlignment="Left" Margin="348,243,0,0" VerticalAlignment="Top" Width="75" Click="btnOK_Click"/>
-		<TextBlock x:Name="textBk" HorizontalAlignment="Left" Margin="122,82,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="62" Width="234"/>
+        <Button x:Name="btnTest" Content="测试" HorizontalAlignment="Left" Margin="74,243,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnOK" Content="确定" HorizontalAlignment="Left" Margin="348,243,0,0" VerticalAlignment="Top" Width="75" Click="btnOK_Click"/>
+        <local:KNode HorizontalAlignment="Left" Height="100" Margin="149,128,0,0" VerticalAlignment="Top" Width="100"/>
 
-	</Grid>
+    </Grid>
 </Window>
